@@ -1,0 +1,4 @@
+flask
+pwnedpasswords
+requests
+flask-cors
